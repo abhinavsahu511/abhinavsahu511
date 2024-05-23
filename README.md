@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Sahu</h1>
-<h3 align="center">B-Tech Student 3rd || Android Developer Enthusiast || Passionate about Data Structure and Algorithm Java</h3>
+<h3 align="center">B-Tech 3rd year Student || Android Developer Enthusiast || Passionate about Data Structure and Algorithm Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsahu511&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsahu511" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structure And Algorithm**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm Java,MySql, JetPack Compose.**
+- 🌱 I’m currently learning **Data Structure and Algorithm Java, MySql, JetPack Compose.**
 
 - 📫 How to reach me **abhinavsahu511@gmail.com**
 
